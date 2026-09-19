@@ -8,6 +8,7 @@ Interactive multi-dimensional data visualizer. Load CSV or JSON, map columns to 
 |------|------------|
 | [**PLeW**](https://github.com/plew-project/PLeW) | Main editor and example gallery |
 | [**PLeW-NLG**](https://github.com/plew-project/PLeW-NLG) | Research fork (NLG / paper experiments) |
+| [**PLeW-Map, "Maplew"**](https://github.com/plew-project/maplew) | Research fork (NLG / paper experiments) |
 | [**home**](https://github.com/plew-project/home) | Landing page with links to live demos |
 
 ## Live demos
